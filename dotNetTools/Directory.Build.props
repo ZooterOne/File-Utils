@@ -1,0 +1,13 @@
+<Project>
+  <!-- See https://aka.ms/dotnet/msbuild/customize for more details on customizing your build -->
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <Authors>ZooterOne</Authors>
+    <Description>Find duplicate files within a directory and its sub-directories.</Description>
+    <RepositoryUrl>https://www.github.com/ZooterOne/Duplicate-Finder</RepositoryUrl>
+    <Optimize Condition="'$(Configuration)' == 'Release'">true</Optimize>
+    <BaseIntermediateOutputPath>..\Build\obj\$(MSBuildProjectName)\</BaseIntermediateOutputPath>
+    <BaseOutputPath>..\Build\$(MSBuildProjectName)\</BaseOutputPath>
+  </PropertyGroup>
+</Project>
