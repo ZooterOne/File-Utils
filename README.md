@@ -10,3 +10,8 @@ The project is composed of the following implementations:
 
 [![PYTHON](https://img.shields.io/badge/python-cornflowerblue?style=for-the-badge&logo=python&logoColor=white)](PythonUtils/README.md)
 [![DOTNET](https://img.shields.io/badge/dotnet-royalblue?style=for-the-badge&logo=dotnet&logoColor=white)](dotNetTools/README.md)
+[![BASH](https://img.shields.io/badge/shell-steelblue?style=for-the-badge&logo=linux&logoColor=white)](ShellScripts/README.md)
+
+# 🧪 Results
+
+_-- In progress --_
